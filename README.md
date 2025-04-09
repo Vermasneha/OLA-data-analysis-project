@@ -32,15 +32,29 @@ step 6: Publish the dashboard into powerbi cloud
 
 ### Problem Statements
 
-- Q1. Revenue breakdown by cities.
-
-- Q2. Revenue brekdown by months.
-
-- Q3. Which category of Trips are mostly booked
-
-- Q4. Which purpose of Trips are mostly booked
-  
-- Q5. Total revenue of the company
+### SQL Questions:
+1. Retrieve all successful bookings:
+2. Find the average ride distance for each vehicle type:
+3. Get the total number of cancelled rides by customers:
+4. List the top 5 customers who booked the highest number of rides:
+5. Get the number of rides cancelled by drivers due to personal and car-related issues:
+6. Find the maximum and minimum driver ratings for Prime Sedan bookings:
+7. Retrieve all rides where payment was made using UPI:
+8. Find the average customer rating per vehicle type:
+9. Calculate the total booking value of rides completed successfully:
+10. List all incomplete rides along with the reason:
+    
+###Power BI Questions:
+1. Ride Volume Over Time
+2. Booking Status Breakdown
+3. Top 5 Vehicle Types by Ride Distance
+4. Average Customer Ratings by Vehicle Type
+5. cancelled Rides Reasons
+6. Revenue by Payment Method
+7. Top 5 Customers by Total Booking Value
+8. Ride Distance Distribution Per Day
+9. Driver Ratings Distribution
+10. Customer vs. Driver Ratings
 
 ### Approach - Project Planning & Aims Grid
   
@@ -56,19 +70,8 @@ Results and certain insights from the OLA trip Dashboard can determine the reven
 - Key metrics, category and monthly wise and periodic distribution of customers can help to improve the employees performance.
 
 
- **Project reference**🔗
-   
-[OLA Trip Data Analysis](https://www.kaggle.com/datasets/nimish23/ola-trips?resource=download)
 
-### Liked my Contributions:question:[Follow Me](https://github.com/anandaiml19):point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
-##For any doubts/queries 🔗 👇
-                                                                                                                            
-<p align="left"> <a href="https://twitter.com/drkrishnaanand_/" target="blank"><img src="https://img.shields.io/twitter/follow/Dr.krishnaanand_?logo=twitter&style=for-the-badge" alt="Drkrishnaanand_" /></a> </p>
-<a href="https://www.linkedin.com/in/drkrishnaanand" target="blank"><img align="center" src="https://img.shields.io/badge/-drkrishnaanand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/dr-krishna-anand-v-g-70bba623/" alt="drkrishnanand" height="20" width="100" /></a>
-<a href="https://www.instagram.com/kakrishnaanand/" target="blank"><img align="center" src="https://img.shields.io/badge/-@Drkrishnaanand_-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/kakrishnaanand/" alt="drkrishnaanand_" height="25" width="100" /></a>
-<a href="https://github.com/anandaiml19 /" target="blank"><img align="center" src="https://img.shields.io/github/followers/anandaiml19?label=Follow&style=social&link=https://github.com/anandaiml19 /" alt="drkrishnaanand " height="20" width="90" /></a>
 
-  
 
   
   
